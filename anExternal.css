@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+h4 {
+	color: skyblue;
+	text-align: center;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+}
+
+h5 {
+	color: skyblue;
+	text-align: center;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+
+h1 {
+	color:aquamarine;
+	border-style: dotted;
+	text-align: center;
+}
+
+.container {
+  	position: relative;
+	width: 20%;
+	margin: 20px;
+}
+
+.text {
+    position: absolute;
+    text-align: center;
+    top: 45%;
+    width: 100%;
+	color: dodgerblue;
+}
+
+.container img {
+	border-radius: 50px;
+	width: 100%;
+
+}
+
+.pics {
+	float: right;
+	width: 50px;
+	height: 50px;
+}
+
+
